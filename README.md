@@ -34,5 +34,4 @@ To use the frontend application, follow the instructions below:
 
 Enjoy using the product transaction management system!
 
-## Deployment
-The frontend application is deployed and can be accessed at [(https://roxiler-frontend-luckybhure.vercel.app/)](https://roxiler-frontend-luckybhure.vercel.app/).
+
